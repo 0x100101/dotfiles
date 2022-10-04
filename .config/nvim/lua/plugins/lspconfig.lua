@@ -1,0 +1,1 @@
+--@Note: So far lspconfig is entirely configured in cmp since the two are so heavily dependant.
